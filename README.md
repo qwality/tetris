@@ -7,7 +7,7 @@ tetris game created with pygame
         - score
         - menu
             - restart button
-</p>
+<p/>
 
 <img src="screenshot1.png" width="200">
 <img src="screenshot2.png" width="200">
