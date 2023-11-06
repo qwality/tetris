@@ -6,3 +6,6 @@ tetris game created with pygame
         - score
         - menu
             - restart button
+
+![screen1](screenshot1.png)
+![screen2](screenshot2.png)
