@@ -1,5 +1,5 @@
 
-tetris game created with pygame
+tetris game created with pygame<br>
 ------ basic functionality:
 --------- shape rotation
 --------- shape colision
